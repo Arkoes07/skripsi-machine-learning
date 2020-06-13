@@ -1,8 +1,11 @@
 ### Custom
-logs/
-preprocessed-data/
-tflite-model/
-dataset/
+old/comparison-logs/
+old/dataset/
+old/logs/
+old/model-comparison-result/
+old/preprocessed-data/
+old/tflite-model/
+old/prep-out.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
