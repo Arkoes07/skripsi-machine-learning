@@ -1,6 +1,6 @@
 ### Custom
 old/
-preprocess_data/
+preprocessed_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
