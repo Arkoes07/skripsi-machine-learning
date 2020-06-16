@@ -3,6 +3,7 @@ old/
 dataset/
 transformed_data/
 logs/
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
