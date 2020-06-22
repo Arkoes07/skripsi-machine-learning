@@ -1,6 +1,7 @@
 ### Custom
 old/
 dataset/
+tflite-model/
 transformed_data/
 logs/
 model/
