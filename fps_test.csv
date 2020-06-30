@@ -1,0 +1,31 @@
+﻿method,time,frame,fps
+tanpa tracking,20,59,2.95
+tracking 05 frame,20,188,9.4
+tracking 10 frame,20,193,9.65
+tracking 15 frame,20,231,11.55
+tracking 20 frame,20,238,11.9
+tracking 25 frame,20,250,12.5
+tanpa tracking,40,117,2.925
+tracking 05 frame,40,377,9.425
+tracking 10 frame,40,407,10.175
+tracking 15 frame,40,465,11.625
+tracking 20 frame,40,482,12.05
+tracking 25 frame,40,499,12.475
+tanpa tracking,60,175,2.916666667
+tracking 05 frame,60,569,9.483333333
+tracking 10 frame,60,625,10.41666667
+tracking 15 frame,60,686,11.43333333
+tracking 20 frame,60,723,12.05
+tracking 25 frame,60,748,12.46666667
+tanpa tracking,80,239,2.9875
+tracking 05 frame,80,756,9.45
+tracking 10 frame,80,836,10.45
+tracking 15 frame,80,930,11.625
+tracking 20 frame,80,967,12.0875
+tracking 25 frame,80,997,12.4625
+tanpa tracking,100,301,3.01
+tracking 05 frame,100,945,9.45
+tracking 10 frame,100,1051,10.51
+tracking 15 frame,100,1161,11.61
+tracking 20 frame,100,1209,12.09
+tracking 25 frame,100,1246,12.46
