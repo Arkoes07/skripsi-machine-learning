@@ -1,10 +1,9 @@
 ### Custom
+datasets/
 old/
-dataset/
-tflite-model/
-transformed_data/
-logs/
-model/
+saved-models/
+tflite-models/
+transformed-datas/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
