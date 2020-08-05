@@ -1,8 +1,6 @@
 ### Custom
-csv-train-logs/
 datasets/
 old/
-plots/
 saved-models/
 tflite-models/
 transformed-datas/
